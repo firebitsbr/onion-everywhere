@@ -1,0 +1,7 @@
+<ruleset name="ProtonMail Onion">
+  <target host="protonmail.ch" />
+  <target host="www.protonmail.ch" />
+  <target host="protonmail.com" />
+  <target host="www.protonmail.com" />
+  <rule from="^https?://(.*\.?)protonmail\.(com|ch)/" to="https://protonirockerxow.onion/"/>
+</ruleset>

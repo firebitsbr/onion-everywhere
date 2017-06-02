@@ -1,0 +1,5 @@
+<ruleset name="QubesOS Onion">
+  <target host="qubes-os.org" />
+  <target host="www.qubes-os.org" />
+  <rule from="^https?://(.*\.?)qubes-os\.org/" to="http://qubesos4rrrrz6n4.onion/"/>
+</ruleset>

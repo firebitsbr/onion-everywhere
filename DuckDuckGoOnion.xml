@@ -1,0 +1,5 @@
+<ruleset name="Duck Duck Go Onion">
+  <target host="duckduckgo.com" />
+  <target host="www.duckduckgo.com" />
+  <rule from="^https?://(.*\.?)duckduckgo\.com/" to="https://3g2upl4pq6kufc4m.onion/"/>
+</ruleset>

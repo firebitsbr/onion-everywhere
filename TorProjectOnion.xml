@@ -1,0 +1,5 @@
+<ruleset name="TorProject Onion">
+  <target host="torproject.org" />
+  <target host="www.torproject.org" />
+  <rule from="^https?://(.*\.?)torproject\.org/" to="http://expyuzz4wqqyqhjn.onion/"/>
+</ruleset>

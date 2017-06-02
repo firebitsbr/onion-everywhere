@@ -1,0 +1,5 @@
+<ruleset name="OnionShare Onion">
+  <target host="onionshare.org" />
+  <target host="www.onionshare.org" />
+  <rule from="^https?://(.*\.?)onionshare\.org/" to="http://elx57ue5uyfplgva.onion/"/>
+</ruleset>
