@@ -1,0 +1,5 @@
+<ruleset name="mig5 Onion">
+  <target host="mig5.net" />
+  <target host="www.mig5.net" />
+  <rule from="^https?://(.*\.?)mig5\.net/" to="http://qz226vsfiwwwoiej.onion/"/>
+</ruleset>
